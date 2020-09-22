@@ -1,4 +1,4 @@
-# DNN-copula-loss
+# DNN-copula-loss-multivariate
 # DNN_copula_multivarie
 
 
