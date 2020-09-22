@@ -2,7 +2,7 @@
 # DNN_copula_multivarie
 
 
-# Remarque : SVP verifier que le dossier de la base de donnée data_copula est bien dans le dossier du code et aussi dans la racine .
+# Remarque : SVP verifier que le dossier de la base de donnée data_copule est bien dans le dossier du code et aussi dans la racine .
 
 
 #code inspired by https://github.com/lllllllllllll-llll/NSSADNN_IQA
