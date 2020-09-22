@@ -1,0 +1,11 @@
+
+LIVE_Phase1:
+  im_dir: /data_NSS_test/cyclo_data
+
+patch_size: 32
+stride: 24
+
+train_ratio: 0.6
+val_ratio: 0.2
+test_ratio: 0.2
+
